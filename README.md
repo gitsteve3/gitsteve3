@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @gitsteve3
+- 👋 Hi, I’m Steven
+
 - 👀 I’m interested in ... coding
 - 🌱 I’m currently learning ... HTML, CSS, Javascript
 - 💞️ I’m looking to collaborate on ...
